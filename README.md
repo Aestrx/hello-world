@@ -1,2 +1,4 @@
 # hello-world
-First repo exp 
+Hi there!
+
+Im from Turkey and im here to learn about java and pyhton.
