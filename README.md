@@ -1,4 +1,4 @@
 # hello-world
 Hi there!
 
-Im from Turkey and im here to learn about java and pyhton.
+Im from Turkey and im here to learn java and pyhton.
